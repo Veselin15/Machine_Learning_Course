@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a92a71c4-26cc-40b9-b8b9-f60f612e1877" name="Changes" comment="tensor reshape basic">
+    <list default="true" id="a92a71c4-26cc-40b9-b8b9-f60f612e1877" name="Changes" comment="notebook exercises">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Linear_Regression/colab_notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regression/colab_notebook.ipynb" afterDir="false" />
     </list>
@@ -104,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762277129952</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="notebook exercises">
+      <option name="closed" value="true" />
+      <created>1762348806495</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762348806495</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="tensor reshape basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="tensor reshape basic" />
+    <MESSAGE value="notebook exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="notebook exercises" />
   </component>
 </project>
